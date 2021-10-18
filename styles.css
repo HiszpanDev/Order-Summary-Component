@@ -36,6 +36,7 @@ btn{
     border-radius:10px;
     padding-left:80px;
     padding-right:80px;
+    font-weight:700;
 }
 
 .container {
@@ -49,10 +50,11 @@ btn{
     right:28%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    background-color:hsla(0, 0%, 100%, 0.774);
+    background-color:hsla(0, 0%, 100%, 0.329);
     padding-bottom:40px;
     margin-top:50px;
     border-radius:20px;
+    box-shadow: 5px 5px 8px #888888;
 }
 
 .plan{
